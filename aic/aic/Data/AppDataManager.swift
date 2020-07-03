@@ -74,8 +74,12 @@ class AppDataManager {
 						Common.DataConstants.appDataJSON = appDataJSON as! String
 					}
 
-					if let memberCardSOAPRequestURL = DataConstants["memberCardSOAPRequestURL"] as? String {
-						Common.DataConstants.memberCardSOAPRequestURL = memberCardSOAPRequestURL
+					if let memberCardRequestURL = DataConstants["memberCardRequestURL"] as? String {
+						Common.DataConstants.memberCardRequestURL = memberCardRequestURL
+					}
+
+					if let memberCardRequestBearerToken = DataConstants["memberCardRequestBearerToken"] as? String {
+						Common.DataConstants.memberCardRequestBearerToken = memberCardRequestBearerToken
 					}
 
 					if let ignoreOverrideImageCrop = DataConstants["ignoreOverrideImageCrop"] {

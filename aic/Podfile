@@ -7,7 +7,6 @@ target 'aic' do
 
   # Pods for aic
   pod 'PureLayout'
-  pod 'SWXMLHash', '~> 5.0.0'
   pod 'Alamofire', '~> 4.9.0'
   pod 'Kingfisher', '~> 5.11.0'
   pod 'SwiftyJSON', '~> 5.0.0'

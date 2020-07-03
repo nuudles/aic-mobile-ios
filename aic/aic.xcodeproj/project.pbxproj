@@ -192,7 +192,6 @@
 		E4D159311CB9A61F00536B4D /* UIFont+AIC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D159301CB9A61F00536B4D /* UIFont+AIC.swift */; };
 		E4D159351CBAE3E900536B4D /* AICTourModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D159341CBAE3E900536B4D /* AICTourModel.swift */; };
 		E4D159391CBAE8C100536B4D /* AICCoordinateWithFloor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D159381CBAE8C100536B4D /* AICCoordinateWithFloor.swift */; };
-		E4D790D81C8E792F0033EE0A /* SWXMLHash.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4D790D71C8E792F0033EE0A /* SWXMLHash.framework */; };
 		E4D790E21C90AD200033EE0A /* UIColor+AIC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D790E11C90AD200033EE0A /* UIColor+AIC.swift */; };
 		E4E108DC1C98A89A00385842 /* AICAudioFileModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E108DB1C98A89A00385842 /* AICAudioFileModel.swift */; };
 		E4F518FB1D2586B0004BFB44 /* AICImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F518FA1D2586B0004BFB44 /* AICImageView.swift */; };
@@ -489,7 +488,6 @@
 				E456F9A71D2DAAC100DEA3C9 /* SystemConfiguration.framework in Frameworks */,
 				E456F9A51D2DAAAF00DEA3C9 /* CoreData.framework in Frameworks */,
 				E43F36741D2B0E3600DA4DA6 /* AddressBook.framework in Frameworks */,
-				E4D790D81C8E792F0033EE0A /* SWXMLHash.framework in Frameworks */,
 				E47FAA1D1C7D290A00B5CD02 /* MapKit.framework in Frameworks */,
 				E4223CE81CC8013300503D43 /* Alamofire.framework in Frameworks */,
 				E44084A71CC96C8E00AABC92 /* SwiftyJSON.framework in Frameworks */,
@@ -1351,7 +1349,6 @@
 				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
 				"${BUILT_PRODUCTS_DIR}/Localize-Swift/Localize_Swift.framework",
 				"${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework",
-				"${BUILT_PRODUCTS_DIR}/SWXMLHash/SWXMLHash.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
@@ -1363,7 +1360,6 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Localize_Swift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PureLayout.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SWXMLHash.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);

@@ -38,7 +38,8 @@ struct Common {
 
 		// This URL is the link for requests to validate member card data. The member card feature is disabled by default
 		// in the open source version of this application
-		static var memberCardSOAPRequestURL = "http://link-to-member-card-validation.domain"
+		static var memberCardRequestURL = "http://link-to-member-card-validation.domain"
+		static var memberCardRequestBearerToken = "TOKEN"
 
 		static let dataLoadFailureTitle = "Load Failure"
 		static let dataLoadFailureMessage = "Please check your internet connection and try again."

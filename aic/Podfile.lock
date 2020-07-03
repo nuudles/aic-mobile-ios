@@ -72,7 +72,6 @@ PODS:
   - nanopb/encode (0.3.9011)
   - PureLayout (3.1.5)
   - SwiftyJSON (5.0.0)
-  - SWXMLHash (5.0.1)
 
 DEPENDENCIES:
   - Alamofire (~> 4.9.0)
@@ -82,7 +81,6 @@ DEPENDENCIES:
   - Localize-Swift (~> 3.1.0)
   - PureLayout
   - SwiftyJSON (~> 5.0.0)
-  - SWXMLHash (~> 5.0.0)
 
 SPEC REPOS:
   trunk:
@@ -103,7 +101,6 @@ SPEC REPOS:
     - nanopb
     - PureLayout
     - SwiftyJSON
-    - SWXMLHash
 
 SPEC CHECKSUMS:
   Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
@@ -123,8 +120,7 @@ SPEC CHECKSUMS:
   nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
   PureLayout: 9b4ad47b2f0388c84ff534af23d96e720c1b875a
   SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
-  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
 
-PODFILE CHECKSUM: 77435744f9814c8a119fd5c177ad87c41e5a9630
+PODFILE CHECKSUM: 0c37ec50f9a9ab8f3a7271c24fc9a2f75c84cd22
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.3
